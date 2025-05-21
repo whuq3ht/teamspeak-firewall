@@ -9,7 +9,7 @@ const isLinux = platform === "linux";
 
 const YAPIMCI = {
   github: "https://github.com/whuq3ht",
-  instagram: "https://instagram.com/haktanbolek"
+  instagram: "https://instagram.com/haktan0zturk"
 };
 
 function yazdirYapimci() {
